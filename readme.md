@@ -7,12 +7,15 @@
 
 
 ### Requisitos
-1. Python 3+
+1. Python
+2. C
 
 ### How to run
-1. Instale o Python 3+
-2. Clone este repositório
-3. linha de comando:
+1. Instale Python 3
+2. Instale C
+3. Clone este repositório
+4. linha de comando:
+
 ```
 python [exercicio].py
 ```
