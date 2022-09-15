@@ -18,9 +18,10 @@
 
 ```
 python [exercicio].py
+...
 ```
 
-### Lista de experiências
+### Lista de trabalhos
 
 
 - [T1: Trabalho 1.1](T1-Trabalho-1.1-implementacao-automato) - Analisador Léxico em [anexo](T1-Trabalho-1.1-implementacao-automato\aula01_atividade.png)
