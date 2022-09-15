@@ -1,0 +1,17 @@
+#include <stdio.h> // This is a header file
+
+int sum()
+{
+  // 2 variables
+  int a, b;
+  a = 10;
+ return 0;
+}
+
+int main()
+{
+    int a;
+    a = 10;
+    printf("The value of a is %d ",a);
+    return 0;
+}
