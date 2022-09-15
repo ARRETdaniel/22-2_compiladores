@@ -20,7 +20,7 @@ python [exercicio].py
 ### Lista de experiências
 
 
-- [T1: Trabalho 1.2](T1-Trabalho-1.1-implementacao-automato) - Analisador Léxico em [anexo](T1-Trabalho-1.1-implementacao-automato\aula01_atividade.png)
+- [T1: Trabalho 1.1](T1-Trabalho-1.1-implementacao-automato) - Analisador Léxico em [anexo](T1-Trabalho-1.1-implementacao-automato\aula01_atividade.png)
   <h5>
   Encontrar uma implementação em qualquer linguagem para o autômato em anexo
   </h5>
