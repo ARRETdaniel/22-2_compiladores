@@ -6,6 +6,10 @@
 ###### UENF - Ciência da Computação
 
 
+#### Installation of additional libraries
+
+1. You should install Python +3 from [official website](https://www.python.org/downloads/)
+
 ### Requisitos
 1. Python
 2. C
@@ -37,4 +41,9 @@ python [exercicio].py
   <h5>
   Implementar seu analisador léxico
   Exemplo: https://www.youtube.com/watch?v=X72YLgkJ9_E
+  </h5>
+- [T1: Trabalho 1.4](T1-Trabalho-1.4-analisador-sintatico) - Analisador Sintático
+  <h5>
+  Implementar seu analisador sintático
+  Exemplo: https://www.youtube.com/watch?v=bOxx2c9QLpM
   </h5>
