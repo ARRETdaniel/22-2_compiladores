@@ -37,13 +37,21 @@ python [exercicio].py
   Executar a prática do vídeo da Aula 03 que utilizou o FLEX para demostrar o uso de um Analisador Léxico.
   Postar o código e o print screen das saídas obtidas.
   </h5>
-- [T1: Trabalho 1.3](T1-Trabalho-1.3-lexical-analysis\ex1.py) - Analisador Léxico
+- [T2: Trabalho 2.1](T2-Trabalho-2.1-lexical-analysis) - Analisador Léxico
   <h5>
   Implementar seu analisador léxico
   Exemplo: https://www.youtube.com/watch?v=X72YLgkJ9_E
   </h5>
-- [T1: Trabalho 1.4](T1-Trabalho-1.4-analisador-sintatico) - Analisador Sintático
+- [T2: Trabalho 2.2](T2-Trabalho-2.2-analisador-sintatico) - Analisador Sintático
   <h5>
   Implementar seu analisador sintático
   Exemplo: https://www.youtube.com/watch?v=bOxx2c9QLpM
   </h5>
+
+
+## Contributions
+
+[Lexical and Syntax Analysis](https://tinman.cs.gsu.edu/~raj/4330/su20/slides/)
+[Parser](https://www.techtarget.com/searchapparchitecture/definition/parser)
+[Daniel Brito - Automata](https://github.com/dbs-97)
+[Construindo o Primeiro Compilador | Compiladores](https://www.youtube.com/watch?v=FmR3p1-tzoc&t=4s)
