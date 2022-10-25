@@ -51,7 +51,7 @@ python [exercicio].py
 
 ## Contributions
 
-[Lexical and Syntax Analysis](https://tinman.cs.gsu.edu/~raj/4330/su20/slides/)
-[Parser](https://www.techtarget.com/searchapparchitecture/definition/parser)
-[Daniel Brito - Automata](https://github.com/dbs-97)
-[Construindo o Primeiro Compilador | Compiladores](https://www.youtube.com/watch?v=FmR3p1-tzoc&t=4s)
+- [Lexical and Syntax Analysis](https://tinman.cs.gsu.edu/~raj/4330/su20/slides/)
+- [Parser](https://www.techtarget.com/searchapparchitecture/definition/parser)
+- [Daniel Brito - Automata](https://github.com/dbs-97)
+- [Construindo o Primeiro Compilador | Compiladores](https://www.youtube.com/watch?v=FmR3p1-tzoc&t=4s)
